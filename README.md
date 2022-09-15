@@ -1,2 +1,2 @@
 # MyBoilerPlateCodeRepo
-Code that is commonly used in any type of programs(java or C , C++ , Ruby etc..) that run on any platform (such as windows,mac, android, linux etc) 
+<h3>Code for commonly used functionalities across all apps</h3>
